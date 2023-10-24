@@ -1,0 +1,4 @@
+
+.project {
+  --tw-translate-y: calc(calc(-1.5rem * var(--index)) + var(--translate-y));
+}
