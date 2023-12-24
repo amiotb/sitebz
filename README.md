@@ -1,22 +1,25 @@
-# create-svelte
+# Le site
 
-## Developing
+## Première installation
+installation des dépendances : `npm install`
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Changement et test en temps réel
+Fait apparaitre les changements tout de suite : `npm run dev`
+attention le site n'est disponible qu'en local, pour pouvoir y accéder ailleurs : `npm run dev -- --host`
 
-```bash
-npm run dev
+## Créer le produit final
+`npm run build`
+le site finit apparait dans `/build`
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+# Git et Github
 
-## Building
+## Télécharger le code pour la première fois
+`git clone https://github.com/amiotb/sitebz.git`
 
-To create a production version of your app:
+## Récupérer une modification
+`git pull`
 
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
+## Après un changement
+ajout des fichiers : `git add .`
+création du changement "commit" : `git commit -m "titre du changement (court)"`
+envoit des changements sur github : `git push`
