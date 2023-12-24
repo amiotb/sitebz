@@ -10,8 +10,8 @@ const config = {
 		adapter: adapter({
 			// default options are shown. On some platforms
 			// these options are set automatically — see below
-			pages: 'firebase/public',
-			assets: 'firebase/public',
+			pages: 'build',
+			assets: 'build',
 			fallback: undefined,
 			precompress: false,
 			strict: true,
