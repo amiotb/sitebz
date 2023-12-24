@@ -3,7 +3,7 @@ export default {
   title: "The hello world",
   content: `
     <p>
-        Lorem ipsum dolor sit amen
+        Hello
     </p>
 `,
 
