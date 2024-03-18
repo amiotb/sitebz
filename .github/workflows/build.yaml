@@ -4,7 +4,8 @@ run-name: Build svelte kit
 
 on:
   push:
-    branches: [main]
+      branches: [main]
+  workflow_dispatch:
 
 jobs:
   build:
