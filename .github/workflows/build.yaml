@@ -26,6 +26,8 @@ jobs:
         with:
           draft: true
           prerelease: false
+          release_name: "build"
+          tag_name: ${{ github.ref }}
         env:
           GITHUB_TOKEN: ${{ github.token }}
 
