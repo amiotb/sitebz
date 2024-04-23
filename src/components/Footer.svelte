@@ -10,9 +10,6 @@
     <div class="flex items-center justify-center h-full">
       <div class="bg-text w-px opacity-30 h-5/6"/>
     </div>
-    <div class="col-span-3">
-      <a href="tel:06-63-28-18-96">06 63 28 18 96</a>
-    </div>
   </div>
   <a href="#top">Haut de la page</a>
   <a href="/mentions-legales" class="m-1 mt-5 text-sm">Mentions Légales</a>
