@@ -32,33 +32,36 @@
   <p>
  <h2>Design objet / Scénographie</h2>
     Mes projets associent des formes simples avec des technologies interactives pour des usages intuitifs.
-  </p>
-  <h2>Résidence / Workshop</h2>
-  <p>
+ <br />
+<h2>Résidence / Workshop</h2>
     Mes ateliers s’articulent autour de la collaboration et de la fabrication numérique.
-  </p>
- <h2>Formation / Conférence</h2>
-  <p>
+ <br />
+<h2>Formation / Conférence</h2>
+ <br />
 Mes propos portent sur l’expérimentation comme outil pédagogique au service
 d’émergence d’idées.  
+ <br />
 </p>
- <h2>Ce que je peux faire avec vous :</h2>
+<p> 
+Bérengère Amiot est diplômée de l’École Européenne Supérieure d’Art de Bretagne de Rennes – EESAB – option design et d’une licence d’Information et de Communication. 
+Depuis 2012, elle développe des objets numériques, et conçoit des projets de création partagée autour des arts et des pratiques numériques. 
+Ses projets associent des formes simples et des technologies innovantes pour expérimenter des nouveaux usages. 
+Ainsi elle a mis en place, pas à pas une méthodologie de travail centrée sur l’usager et l’expérimentation.
+</p>
   <p>
+ <br />
+<h2>Ce que je peux faire avec vous :</h2>
+ <br />
 Créer des objets et des sercices  
-</p>
-  <p>
+ <br />
 Inventer des mondes imaginaires
-</p>
-  <p>
+ <br />
 Définir des identités numériques
-</p>
-  <p>
+ <br />
 Aider à la mise en place de projets d’innovation sociale
-</p>
-  <p>
+ <br />
 Imaginer des dispositifs de transmission et de formation
-</p>
-  <p>
+ <br />
 Concevoir des espaces d’interactions réels ou virtuels
 </p>
   <!-- Tu peux changer a là -->
