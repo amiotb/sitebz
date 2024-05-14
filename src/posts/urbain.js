@@ -4,7 +4,9 @@ export default {
   content: `
     <p>
 Bérengère Amiot invite 40 élèves de maternelle à voir, écouter et ressentir la ville autrement pendant 1 semaine.
-À travers des ateliers d'observation et d'expérimentation, les enfants appréhendent leur quartier pour mieux comprendre ce qu'est l'espace urbain.</p>`,
+À travers des ateliers d'observation et d'expérimentation, les enfants appréhendent leur quartier pour mieux comprendre ce qu'est l'espace urbain.
+Pont-Audemer juin 2021
+</p>`,
 
   images: [
     {
