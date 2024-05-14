@@ -1,10 +1,7 @@
 <svelte:head>
-  <title>Qui suis-je ? | Bérengère Amiot</title>
+  <title>Infos et Contact</title>
   <!-- Mettre le début du texte -->
-  <meta name="description" content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus non
-  molestias dignissimos vel minus illum aut cumque, neque, aspernatur quasi
-  suscipit voluptatibus at eum! Excepturi quidem necessitatibus praesentium
-  porro quibusdam.">
+  <meta name="description" content="designer indépendante">
 </svelte:head>
 
 <script>
@@ -33,38 +30,37 @@
   <!-- Tu peux changer de là -->
 
   <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus non
-    molestias dignissimos vel minus illum aut cumque, neque, aspernatur quasi
-    suscipit voluptatibus at eum! Excepturi quidem necessitatibus praesentium
-    porro quibusdam. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    Vitae quae qui id cupiditate voluptatum numquam beatae eum aperiam maiores
-    officiis aliquam voluptatem delectus obcaecati deserunt quo, sequi
-    perspiciatis quos cum. Lorem, ipsum dolor sit amet consectetur adipisicing
-    elit. Aspernatur soluta <i>magnam</i> corrupti ipsam, molestiae
-    exercitationem aut tempora porro quia fugit voluptate eveniet perspiciatis
-    itaque amet dolorem, enim similique nesciunt ad. Lorem ipsum dolor sit amet
-    <strong>consectetur</strong>
-    adipisicing elit. At illo libero possimus doloremque sed vero reiciendis,
-    <u>quisquam</u> quos veniam tempora, amet perferendis tempore laboriosam, atque
-    earum culpa odit voluptatem repellat.
+ <h2>Design objet / Scénographie</h2>
+    Mes projets associent des formes simples avec des technologies interactives pour des usages intuitifs.
   </p>
-  <h2>MOI</h2>
+  <h2>Résidence / Workshop</h2>
   <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus non
-    molestias dignissimos vel minus illum aut cumque, neque, aspernatur quasi
-    suscipit voluptatibus at eum! Excepturi quidem necessitatibus praesentium
-    porro quibusdam. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    Vitae quae qui id cupiditate voluptatum numquam beatae eum aperiam maiores
-    officiis aliquam voluptatem delectus obcaecati deserunt quo, sequi
-    perspiciatis quos cum. Lorem, ipsum dolor sit amet consectetur adipisicing
-    elit. Aspernatur soluta magnam corrupti ipsam, molestiae exercitationem aut
-    tempora porro quia fugit voluptate eveniet perspiciatis itaque amet dolorem,
-    enim similique nesciunt ad. Lorem ipsum dolor sit amet consectetur
-    adipisicing elit. At illo libero possimus doloremque sed vero reiciendis,
-    quisquam quos veniam tempora, amet perferendis tempore laboriosam, atque
-    earum culpa odit voluptatem repellat.
+    Mes ateliers s’articulent autour de la collaboration et de la fabrication numérique.
   </p>
-  
+ <h2>Formation / Conférence</h2>
+  <p>
+Mes propos portent sur l’expérimentation comme outil pédagogique au service
+d’émergence d’idées.  
+</p>
+ <h2>Ce que je peux faire avec vous :</h2>
+  <p>
+Créer des objets et des sercices  
+</p>
+  <p>
+Inventer des mondes imaginaires
+</p>
+  <p>
+Définir des identités numériques
+</p>
+  <p>
+Aider à la mise en place de projets d’innovation sociale
+</p>
+  <p>
+Imaginer des dispositifs de transmission et de formation
+</p>
+  <p>
+Concevoir des espaces d’interactions réels ou virtuels
+</p>
   <!-- Tu peux changer a là -->
 
 </div>
