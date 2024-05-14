@@ -11,16 +11,8 @@
   // Comme dans les posts
   const images = [
     {
-      url: "/images/4.png",
-      text: "My table",
-    },
-    {
-      url: "/images/2.png",
-      text: "Just a second bird",
-    },
-    {
-      url: "/images/1.png",
-      text: "Just a third bird",
+      url: "/images/profil.jpg",
+      text: "crédit photo Gwendal Le Flem",
     },
   ]
 </script>
