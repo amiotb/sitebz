@@ -16,7 +16,7 @@
   <div class="lg:w-1/3 sm:w-1/2 w-full group-odd/project:order-2" />
   <LinkOrDiv
     href={link}
-    class="lg:w-1/3 sm:w-1/2 w-full block bg-primary relative group transition duration-1000"
+    class="lg:w-1/3 sm:w-1/2 w-full block bg-primary relative group transition duration-1000 text-center"
   >
     {#if videosExtentions.some(ext => image.endsWith(ext))}
       <!-- svelte-ignore a11y-media-has-caption -->

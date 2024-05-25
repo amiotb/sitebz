@@ -12,10 +12,10 @@
   </div>
 
   <div
-    class="text-xl sm:text-2xl md:text-3xl lg:text-4xl flex flex-col items-center gap-5"
+    class="text-xl sm:text-2xl md:text-3xl lg:text-4xl flex flex-col items-center gap-8"
   >
     <a href="mailto://hello@berengereamiot.com">hello@berengereamiot.com</a>
 
-    <a href="adresse">Ferme des Gallets 26 avenue Pierre Donzelot 35000 Rennes</a>
+    <p class="text-center sm:text-1xl md:text-2xl lg:text-3xl">Ferme des Gallets <br /> 26 avenue Pierre Donzelot 35000 Rennes</p>
   </div>
 </div>

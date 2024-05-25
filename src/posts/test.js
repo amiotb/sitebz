@@ -2,11 +2,9 @@ export default {
   id: "test",
   title: "Salut c'est nous",
   content: `
+  <h1>hello</h1>
     <p>
         Lorem ipsum dolor sit amen
-        <h1>hello</h1>
-
-        
     </p>
 `,
 
