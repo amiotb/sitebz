@@ -41,5 +41,5 @@ export default {
       //addVariant('inverted-colors', '@media (inverted-colors: inverted)')
     }),
   ],
-  safelist: ["text-primary", "view:opacity-100"],
+  safelist: ["text-primary", "view:opacity-100", "hidden", "opacity-0"],
 };

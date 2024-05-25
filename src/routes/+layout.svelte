@@ -9,7 +9,7 @@
   <link rel="manifest" href="/manifest.json" />
 </svelte:head>
 
-<div class="text-text bg-background font-secra font-normal">
+<div class="text-text bg-background font-secra font-normal overflow-hidden">
   <main class="min-h-screen p-10 flex flex-col" id="top">
     <Navbar />
     <slot />
