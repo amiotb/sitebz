@@ -1,10 +1,7 @@
 <svelte:head>
-  <title>Qui suis-je ? | Bérengère Amiot</title>
+  <title>Infos et Contact</title>
   <!-- Mettre le début du texte -->
-  <meta name="description" content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus non
-  molestias dignissimos vel minus illum aut cumque, neque, aspernatur quasi
-  suscipit voluptatibus at eum! Excepturi quidem necessitatibus praesentium
-  porro quibusdam.">
+  <meta name="description" content="designer indépendante">
 </svelte:head>
 
 <script>
@@ -14,16 +11,8 @@
   // Comme dans les posts
   const images = [
     {
-      url: "/images/4.png",
-      text: "My table",
-    },
-    {
-      url: "/images/2.png",
-      text: "Just a second bird",
-    },
-    {
-      url: "/images/1.png",
-      text: "Just a third bird",
+      url: "/images/profil.jpg",
+      text: "crédit photo Gwendal Le Flem",
     },
   ]
 </script>
@@ -33,38 +22,40 @@
   <!-- Tu peux changer de là -->
 
   <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus non
-    molestias dignissimos vel minus illum aut cumque, neque, aspernatur quasi
-    suscipit voluptatibus at eum! Excepturi quidem necessitatibus praesentium
-    porro quibusdam. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    Vitae quae qui id cupiditate voluptatum numquam beatae eum aperiam maiores
-    officiis aliquam voluptatem delectus obcaecati deserunt quo, sequi
-    perspiciatis quos cum. Lorem, ipsum dolor sit amet consectetur adipisicing
-    elit. Aspernatur soluta <i>magnam</i> corrupti ipsam, molestiae
-    exercitationem aut tempora porro quia fugit voluptate eveniet perspiciatis
-    itaque amet dolorem, enim similique nesciunt ad. Lorem ipsum dolor sit amet
-    <strong>consectetur</strong>
-    adipisicing elit. At illo libero possimus doloremque sed vero reiciendis,
-    <u>quisquam</u> quos veniam tempora, amet perferendis tempore laboriosam, atque
-    earum culpa odit voluptatem repellat.
-  </p>
-  <h2>MOI</h2>
+ <h2>Design objet / Scénographie</h2>
+    Mes projets associent des formes simples avec des technologies interactives pour des usages intuitifs.
+ <br />
+<h2>Résidence / Workshop</h2>
+    Mes ateliers s’articulent autour de la collaboration et de la fabrication numérique.
+ <br />
+<h2>Formation / Conférence</h2>
+ <br />
+Mes propos portent sur l’expérimentation comme outil pédagogique au service
+d’émergence d’idées.  
+ <br />
+</p>
+<p> 
+Bérengère Amiot est diplômée de l’École Européenne Supérieure d’Art de Bretagne de Rennes – EESAB – option design et d’une licence d’Information et de Communication. 
+Depuis 2012, elle développe des objets numériques, et conçoit des projets de création partagée autour des arts et des pratiques numériques. 
+Ses projets associent des formes simples et des technologies innovantes pour expérimenter des nouveaux usages. 
+Ainsi elle a mis en place, pas à pas une méthodologie de travail centrée sur l’usager et l’expérimentation.
+</p>
   <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus non
-    molestias dignissimos vel minus illum aut cumque, neque, aspernatur quasi
-    suscipit voluptatibus at eum! Excepturi quidem necessitatibus praesentium
-    porro quibusdam. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    Vitae quae qui id cupiditate voluptatum numquam beatae eum aperiam maiores
-    officiis aliquam voluptatem delectus obcaecati deserunt quo, sequi
-    perspiciatis quos cum. Lorem, ipsum dolor sit amet consectetur adipisicing
-    elit. Aspernatur soluta magnam corrupti ipsam, molestiae exercitationem aut
-    tempora porro quia fugit voluptate eveniet perspiciatis itaque amet dolorem,
-    enim similique nesciunt ad. Lorem ipsum dolor sit amet consectetur
-    adipisicing elit. At illo libero possimus doloremque sed vero reiciendis,
-    quisquam quos veniam tempora, amet perferendis tempore laboriosam, atque
-    earum culpa odit voluptatem repellat.
-  </p>
-  
+ <br />
+<h2>Ce que je peux faire avec vous :</h2>
+ <br />
+Créer des objets et des sercices  
+ <br />
+Inventer des mondes imaginaires
+ <br />
+Définir des identités numériques
+ <br />
+Aider à la mise en place de projets d’innovation sociale
+ <br />
+Imaginer des dispositifs de transmission et de formation
+ <br />
+Concevoir des espaces d’interactions réels ou virtuels
+</p>
   <!-- Tu peux changer a là -->
 
 </div>

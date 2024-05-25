@@ -22,8 +22,8 @@
   >
     <div class="p-5 bg-black bg-opacity-10">
       <p>
-        Nous n'utilisons pas de cookie ! <br />
-        Ni ne recueillons d'informations sur vous ; )
+        Nous n'utilisons ni de cookies, <br />
+        ni ne recueillons d'informations.
       </p>
       <div class="flex justify-end">
         <button on:click={() => ($enabled = true)} class="font-medium pr-2"

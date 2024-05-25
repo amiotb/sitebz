@@ -7,8 +7,8 @@
     let isProjectsPage = writable(false);
 
     page.subscribe((p) => {
-        isInfoPage.set(p.route.id?.endsWith("/info") || false)
-        isProjectsPage.set(p.route.id?.endsWith("/projects") || false)
+        isInfoPage.set(p.route.id?.endsWith("/information") || false)
+        isProjectsPage.set(p.route.id?.endsWith("/projets") || false)
     })
 </script>
 

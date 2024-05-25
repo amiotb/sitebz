@@ -16,6 +16,6 @@
   >
     <a href="mailto://hello@berengereamiot.com">hello@berengereamiot.com</a>
 
-    <a href="tel:06-63-28-18-96">06 00 00 00 00</a>
+    <a href="adresse">Ferme des Gallets 26 avenue Pierre Donzelot 35000 Rennes</a>
   </div>
 </div>
