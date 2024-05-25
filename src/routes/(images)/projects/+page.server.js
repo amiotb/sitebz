@@ -6,10 +6,11 @@ export async function load() {
       const post = await getPost(id);
       return {
           id: id,
+          position: post.position ?? 5,
           title: post.title,
           image: post.images[0],
       };
   }));
   //console.log(data);
-  return { posts: data };
+  return { posts: data.sort((a, b) => a.position - b.position) };
 }

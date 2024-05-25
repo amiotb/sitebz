@@ -1,6 +1,7 @@
 export default {
   id: "test",
   title: "Salut c'est nous",
+  position: 10000,
   content: `
   <h1>hello</h1>
     <p>
