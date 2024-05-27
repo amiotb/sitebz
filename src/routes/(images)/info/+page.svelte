@@ -17,11 +17,11 @@
 </svelte:head>
 
 <div
-  class="mt-16 sm:mt-20 md:mt-32 lg:mt-40 px-6 sm:px-16 md:px-24 lg:px-52 pt-0 sm:prose-2xl prose-xl prose-headings:font-medium"
+  class="mt-16 sm:mt-20 md:mt-32 lg:mt-40 px-0 sm:px-16 md:px-24 lg:px-52 pt-0 prose sm:prose-lg md:prose-xl prose-headings:font-medium max-w-none"
 >
   <!-- Tu peux changer de là -->
 
-  <div>
+  <div class="w-full">
     <h2>Design objet / Scénographie</h2>
     Mes projets associent des formes simples avec des technologies interactives pour
     des usages intuitifs.

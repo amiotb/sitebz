@@ -13,10 +13,10 @@
 <Appear
   class="flex flex-row w-full justify-center project -translate-x-6 group-odd/project:translate-x-6"
 >
-  <div class="lg:w-1/3 sm:w-1/2 w-full group-odd/project:order-2" />
+  <div class="lg:w-1/3 xs:w-1/2 w-0 group-odd/project:order-2" />
   <LinkOrDiv
     href={link}
-    class="lg:w-1/3 sm:w-1/2 w-full block bg-primary relative group transition duration-1000 text-center"
+    class="lg:w-1/3 xs:w-1/2 w-full block bg-primary relative group transition duration-1000 text-center"
   >
     {#if videosExtentions.some(ext => image.endsWith(ext))}
       <!-- svelte-ignore a11y-media-has-caption -->

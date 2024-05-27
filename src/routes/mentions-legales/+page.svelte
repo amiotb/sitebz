@@ -4,7 +4,7 @@
   <meta name="description" content="Lorem ipsum" />
 </svelte:head>
 
-<div class="prose-2xl mt-10 prose-h1:text-center">
+<div class="prose sm:prose-lg md:prose-xl mt-10 prose-h1:text-center">
   <h1>Mentions Légales</h1>
 
   <h2>Identité</h2>

@@ -15,23 +15,38 @@ export default {
         secra: ["Secra", ...defaultTheme.fontFamily.serif],
         //medium: 'GT Secra',
       },
+      screens: {
+        xs: '520px'
+      }
     },
   },
   plugins: [
     require("@tailwindcss/typography"),
-    plugin(function ({ addVariant, addComponents }) {
+    plugin(function ({ addVariant, addComponents, matchUtilities, theme }) {
       addVariant("view", ".view&");
 
       addVariant("playing", ".playing&");
 
-      addComponents({
-        '.translate2-y-20': {
-          '--translate-y': '5rem',
+      // addComponents({
+      //   '.translate2-y-20': {
+      //     '--translate-y': '5rem',
+      //   },
+      //   '.translate2-y-0': {
+      //     '--translate-y': '0rem',
+      //   },
+      // });
+
+      matchUtilities(
+        {
+          'translate2-y': (value) => ({
+            '--translate-y': value
+          }),
+          'project-y': (value) => ({
+            '--project-y': value
+          })
         },
-        '.translate2-y-0': {
-          '--translate-y': '0rem',
-        },
-      });
+        { values: theme('spacing') }
+      )
       // addComponents({
       //   '.animate': {
       //     opacity: '0 !important',

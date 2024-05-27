@@ -1,6 +1,7 @@
 export default {
   id: "chapitre9",
   title: "Résidence de territoire",
+  position: 4,
   content: `
     <p>
 Chapitre 9 est une résidence de territoire à Liffré-Cormier Communauté d'une année. 

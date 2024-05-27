@@ -41,7 +41,7 @@
 <div use:inview={options} on:inview_change={handleChange} class="group/project">
   <div
     class:view={isInView && canRun}
-    class={"view:opacity-100 opacity-0 transition duration-1000 view:translate2-y-0 translate2-y-20 " + className}
+    class={"view:opacity-100 opacity-0 transition duration-1000 project-y-2 xs:project-y-4 sm:project-y-6 view:translate2-y-0 translate2-y-20 " + className}
   >
     <slot />
   </div>

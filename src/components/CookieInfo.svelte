@@ -16,7 +16,7 @@
 
 {#if !$enabled && $loaded}
   <div
-    class="fixed bg-background bottom-5 right-5 rounded ml-5"
+    class="fixed bg-background bottom-5 right-5 rounded ml-5 z-50"
     out:fade={{}}
     in:fade={{}}
   >
