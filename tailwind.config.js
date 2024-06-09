@@ -12,8 +12,10 @@ export default {
         primary: "#ffbe98",
       },
       fontFamily: {
-        ostia: ["OstiaAntica", ...defaultTheme.fontFamily.serif],
+        ostia: ["OstiaAnticaBook", ...defaultTheme.fontFamily.serif],
         'ostia-book': ["OstiaAnticaBook", ...defaultTheme.fontFamily.serif],
+         ostia: ["OstiaAnticaBookItalic", ...defaultTheme.fontFamily.serif],
+        'ostia-bookItalic': ["OstiaAnticaBookItalic", ...defaultTheme.fontFamily.serif],
         //medium: 'GT Secra',
       },
       screens: {
