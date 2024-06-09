@@ -12,7 +12,6 @@ export default {
         primary: "#ffbe98",
       },
       fontFamily: {
-        secra: ["Secra", ...defaultTheme.fontFamily.serif],
         ostia: ["OstiaAntica", ...defaultTheme.fontFamily.serif],
         'ostia-book': ["OstiaAnticaBook", ...defaultTheme.fontFamily.serif],
         //medium: 'GT Secra',
