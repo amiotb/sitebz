@@ -7,9 +7,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "#f2f2f7",
-        text: "#0f0f1a",
-        primary: "#0000FF",
+        background: "#f7f0f5",
+        text: "#01010f",
+        primary: "#ffbe98",
       },
       fontFamily: {
         secra: ["Secra", ...defaultTheme.fontFamily.serif],
