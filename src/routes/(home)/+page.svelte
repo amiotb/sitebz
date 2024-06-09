@@ -8,7 +8,7 @@
 
 <div class="flex flex-col items-center h-3/5 justify-around flex-1">
   <div class="text-5xl sm:text-6xl flex flex-col items-center gap-3">
-    <h1 class="font-ostia-regular text-center">Bérengère Amiot</h1>
+    <h1 class="text-center">Bérengère Amiot</h1>
 
     <p class="">designer</p>
   </div>
