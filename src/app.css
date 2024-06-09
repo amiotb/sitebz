@@ -33,12 +33,12 @@
       font-family: "OstiaAnticaBook";
       font-weight: 400;
       font-display: swap;
-      src: url("static/fonts/OstiaAntica-Regular.otf") format("truetype");
+      src: url("/fonts/OstiaAntica-Regular.otf") format("truetype");
     }
     @font-face {
       font-family: "OstiaAnticaBookItalic";
       font-weight: 400;
       font-display: swap;
-      src: url("fonts/OstiaAntica-BookItalic.otf") format("truetype");
+      src: url("/fonts/OstiaAntica-BookItalic.otf") format("truetype");
     }
 }
