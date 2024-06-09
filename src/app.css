@@ -28,23 +28,18 @@
 
 
 
-    @font-face {
-      font-family: "OstiaAntica";
-      font-weight: 400;
-      font-display: swap;
-      src: url("/fonts/OstiaAntica-Regular.ttf") format("truetype");
-    }
+  
     @font-face {
       font-family: "OstiaAnticaBook";
       font-weight: 400;
       font-display: swap;
-      src: url("/fonts/OstiaAntica-Book.ttf") format("truetype");
+      src: url("static/fonts/OstiaAntica-Regular.otf") format("truetype");
     }
     @font-face {
       font-family: "OstiaAnticaBook";
       font-weight: 400;
       font-display: swap;
       font-style: italic;
-      src: url("/fonts/OstiaAntica-BookItalic.ttf") format("truetype");
+      src: url("fonts/OstiaAntica-BookItalic.otf") format("truetype");
     }
 }
