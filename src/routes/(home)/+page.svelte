@@ -2,7 +2,7 @@
   <title>Bérengère Amiot | designer</title>
   <meta
     name="description"
-    content="Le site internet de la designer Bérengère Amiot : sa vie, ses projets, comment la contacter."
+    content="Le site internet de la designer Bérengère Amiot"
   />
 </svelte:head>
 
