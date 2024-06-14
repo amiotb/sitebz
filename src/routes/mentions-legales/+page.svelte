@@ -10,8 +10,8 @@
 <font face="OstiaAnticaBookItalic">Identité</font>
 </p>
   <p>
-    Nom du site : berengereamiot.com
-    Adresse du site : https://www.berengereamiot.com
+    <span style="font-family:OstiaAnticaBookItalic;">Nom du site :</span> berengereamiot.com
+    <span style="font-family:OstiaAnticaBookItalic;">Adresse du site :</span> https://www.berengereamiot.com
     Propriétaire : Bérengère Amiot 35000 Rennes
     SIRET 751 711 201 00044
   </p>
