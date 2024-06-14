@@ -5,24 +5,27 @@
 </svelte:head>
 
 <div class="prose sm:prose-lg md:prose-xl mt-10 prose-h1:text-center">
-  <h2>Mentions Légales</h2>
+  <h3>Mentions Légales</h3>
   <p>
-<font face="OstiaAnticaBookItalic">Identité</font>
+Identité
 </p>
   <p>
-    <span style="font-family:OstiaAnticaBookItalic;">Nom du site :</span> berengereamiot.com
-    <span style="font-family:OstiaAnticaBookItalic;">Adresse du site :</span> https://www.berengereamiot.com
-    Propriétaire : Bérengère Amiot 35000 Rennes
-    SIRET 751 711 201 00044
+   Nom du site : berengereamiot.com
+ </p>
+ <p>
+   Adresse du site : https://www.berengereamiot.com
+ </p>
+ <p>
+   Propriétaire : Bérengère Amiot 35000 Rennes
+ </p>
+ <p>
+   SIRET 751 711 201 00044
   </p>
- <p>  
-<font face="OstiaAnticaBookItalic">Hébergeur du site</font> 
-</p>
   <p>
   Hébergement du site : OVH - 2 rue Kellermann - 59100 Roubaix - France
   </p>
  <p>
-  <font face="OstiaAnticaBookItalic">Propriété intellectuelle</font>
+  Propriété intellectuelle
   </p>
   <p>
     Le contenu de ce site web est protégé par les lois sur la propriété
