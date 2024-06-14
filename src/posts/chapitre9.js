@@ -20,20 +20,20 @@ La résidence d'1 an s’est structurée en 3 étapes : </br>
 
   images: [
     {
-      url: "/images/chapitre91.jpg",
-      text: "Dessin Numérique",
+      url: "/images/Chapitre 9 v.mp4",
+      text: "Vidéo Vincent Cadoret",
     },
     {
       url: "/images/chapitre92.jpg",
       text: "Sensibilisation à la création numérique",
     },
     {
-      url: "/images/chapitre91.jpg",
+      url: "/images/chapitre93.jpg",
       text: "Festival Maintenant édition 2021, Rennes",
     },
        {
-      url: "/images/Chapitre 9 v.mp4",
-      text: "Vidéo Vincent Cadoret",
+       url: "/images/chapitre91.jpg",
+      text: "Dessin Numérique",
     },
   ],
 };
