@@ -9,7 +9,7 @@ export default {
       colors: {
         background: "#f7f0f5",
         text: "#01010f",
-        primary: "#ffbe98",
+        primary: "#01010f",
       },
       fontFamily: {
         ostia: ["OstiaAnticaRegular", ...defaultTheme.fontFamily.serif],
