@@ -58,7 +58,6 @@ Ce que je peux faire avec vous :  </p>
       <li>Concevoir des espaces d’interactions réels ou virtuels</li>
     </ul>
  </p>
-  </div>
   <!-- Tu peux changer a là -->
 </div>
 
