@@ -30,25 +30,19 @@
     numériques. Ses projets associent des formes simples et des technologies
     innovantes pour expérimenter des nouveaux usages. Ainsi elle a mis en place,
     pas à pas une méthodologie de travail centrée sur l’usager et
-    l’expérimentation.
-  </p>
-    <p>
-Design objet / Scénographie : Ses projets associent des formes simples avec des technologies interactives pour
+    l’expérimentation. 
+<br />
+    Design objet / Scénographie : Ses projets associent des formes simples avec des technologies interactives pour
     des usages intuitifs.
-  </p>
-    <p>
-    Résidence / Workshop : Ses ateliers s’articulent autour du design collaboratif, qui consiste à intégrer les futurs
+<br />
+ Résidence / Workshop : Ses ateliers s’articulent autour du design collaboratif, qui consiste à intégrer les futurs
 usagers dans le processus de création, et de la fabrication numérique.
-  </p>
-    <p>
+<br />
     Formation / Conférence : Ses propos portent sur l’expérimentation comme outil pédagogique au service d’émergence
     d’idées.
-  </p>
-  </div>
-  <div>
-      <p>
-Ce que je peux faire avec vous :  </p>
-      <p>
+ </p>
+ <p>
+Ce que je peux faire avec vous :<br />
     <ul class="list-disc">
       <li>Créer des objets et des sercices</li>
       <li>Inventer des mondes imaginaires</li>
