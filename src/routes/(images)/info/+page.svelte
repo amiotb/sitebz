@@ -22,21 +22,8 @@
   <!-- Tu peux changer de là -->
 
   <div class="w-full">
-    <h2>Design objet / Scénographie</h2>
-    Mes projets associent des formes simples avec des technologies interactives pour
-    des usages intuitifs.
-    <br />
-    <h2>Résidence / Workshop</h2>
-    Mes ateliers s’articulent autour de la collaboration et de la fabrication numérique.
-    <br />
-    <h2>Formation / Conférence</h2>
-    <br />
-    Mes propos portent sur l’expérimentation comme outil pédagogique au service d’émergence
-    d’idées.
-    <br />
-  </div>
-  <p>
-    Bérengère Amiot est diplômée de l’École Européenne Supérieure d’Art de
+ <p>
+    Bérengère Amiot est designer indépendante, diplômée de l’École Européenne Supérieure d’Art de
     Bretagne de Rennes – EESAB – option design et d’une licence d’Information et
     de Communication. Depuis 2012, elle développe des objets numériques, et
     conçoit des projets de création partagée autour des arts et des pratiques
@@ -45,10 +32,23 @@
     pas à pas une méthodologie de travail centrée sur l’usager et
     l’expérimentation.
   </p>
+    <p>
+Design objet / Scénographie : Ses projets associent des formes simples avec des technologies interactives pour
+    des usages intuitifs.
+  </p>
+    <p>
+    Résidence / Workshop : Ses ateliers s’articulent autour du design collaboratif, qui consiste à intégrer les futurs
+usagers dans le processus de création, et de la fabrication numérique.
+  </p>
+    <p>
+    Formation / Conférence : Ses propos portent sur l’expérimentation comme outil pédagogique au service d’émergence
+    d’idées.
+  </p>
+  </div>
   <div>
-    <br />
-    <h2>Ce que je peux faire avec vous :</h2>
-
+      <p>
+Ce que je peux faire avec vous :  </p>
+      <p>
     <ul class="list-disc">
       <li>Créer des objets et des sercices</li>
       <li>Inventer des mondes imaginaires</li>
@@ -57,7 +57,7 @@
       <li>Imaginer des dispositifs de transmission et de formation</li>
       <li>Concevoir des espaces d’interactions réels ou virtuels</li>
     </ul>
-
+ </p>
   </div>
   <!-- Tu peux changer a là -->
 </div>
