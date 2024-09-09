@@ -31,8 +31,9 @@
     numériques. Ses projets associent des formes simples et des technologies
     innovantes pour expérimenter des nouveaux usages. Ainsi elle a mis en place,
     pas à pas une méthodologie de travail centrée sur l’usager et
-    l’expérimentation. 
-<br />
+    l’expérimentation. <br />
+ </p>
+ <p>
     Design objet / Scénographie : Ses projets associent des formes simples avec des technologies interactives pour
     des usages intuitifs.
 <br />
@@ -52,7 +53,6 @@ Ce que je peux faire avec vous :<br />
       <li>Imaginer des dispositifs de transmission et de formation</li>
       <li>Concevoir des espaces d’interactions réels ou virtuels</li>
     </ul>
- </p>
   <!-- Tu peux changer a là -->
 </div>
 
