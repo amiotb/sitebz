@@ -36,7 +36,6 @@
   <div class="w-1/2 md:w-full"
    <p>
 Design objet / Scénographie
-</p>
     <p>
 Ses projets associent des formes simples avec des technologies interactives pour des usages intuitifs.
 </p>
