@@ -43,7 +43,6 @@ usagers dans le processus de création, et de la fabrication numérique.
 <br />
     Formation / Conférence : Ses propos portent sur l’expérimentation comme outil pédagogique au service d’émergence
     d’idées.
- </p>
  <p>
 Ce que je peux faire avec vous :<br />
     <ul class="list-disc">
