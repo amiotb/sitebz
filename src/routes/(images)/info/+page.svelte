@@ -52,6 +52,7 @@ Ce que je peux faire avec vous :<br />
       <li>Imaginer des dispositifs de transmission et de formation</li>
       <li>Concevoir des espaces d’interactions réels ou virtuels</li>
     </ul>
+ </p>
   <!-- Tu peux changer a là -->
 </div>
 
