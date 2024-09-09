@@ -22,7 +22,7 @@
 </div>
   <!-- Tu peux changer de là -->
 
-  <div class="w-full">
+  <div class="w-1/2 md:w-full"
  <p>
     Bérengère Amiot est designer indépendante, diplômée de l’École Européenne Supérieure d’Art de
     Bretagne de Rennes – EESAB – option design et d’une licence d’Information et
