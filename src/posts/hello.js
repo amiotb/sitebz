@@ -1,6 +1,6 @@
 export default {
-  id: "hello",
-  title: "The hello world",
+  id: "Sensorama",
+  title: "Sensorama",
   content: `
     <p>
         Hello
@@ -9,16 +9,32 @@ export default {
 
   images: [
     {
-      url: "/images/1.png",
-      text: "Just a bird",
+      url: "/images/Sensorama 1.jpg",
+      text: "détail de Sensorama",
     },
     {
-      url: "/images/bird.mp4",
-      text: "Just a second bird",
+      url: "/images/Sensorama 2.jpg",
+      text: "Écouter des paysages réels",
     },
     {
-      url: "/images/1.png",
-      text: "Just a third bird",
+      url: "/images/Sensorama 4.jpg",
+      text: "Créer un nouvel imaginaire géographique",
+    },
+     {
+      url: "/images/Sensorama 6.jpg",
+      text: "Composer un horizon",
+    },
+      {
+      url: "/images/Sensorama 8.jpg",
+      text: "détail Sensorama",
+    },
+        {
+      url: "/images/Sensorama 7.jpg",
+      text: "détail Sensorama",
+    },
+        {
+      url: "/images/Sensorama 3.jpg",
+      text: "détail Sensorama",
     },
   ],
 };
