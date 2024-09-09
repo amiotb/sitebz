@@ -11,13 +11,13 @@ offrir une approche sur la diversité de la création numérique et sa porte�
 faire-ensemble tout en permettant à chaque structure d’être libre dans la création et la réalisation ; promouvoir
 la lecture publique et développer l’éducation artistique et culturelle sur le territoire permettant ainsi un égal accès de tous à l’art et la culture.
 <br>
-Pendant une année, 141 personnes ont dessiné, écrit, pensé, rêvé, cousu et raconté dand ce livre.  </p>
+Pendant une année, 141 personnes ont dessiné, écrit, pensé, rêvé, cousu et raconté dans ce livre.  </p>
 `,
 
   images: [
        {
       url: "/images/Capture d’écran 2024-09-09 à 19.54.33.png",
-      text: "Chapitre 9 p.42",
+      text: "Chapitre 9 page 42",
     },
        {
       url: "/images/Chapitre 9 v.mp4",
@@ -25,15 +25,15 @@ Pendant une année, 141 personnes ont dessiné, écrit, pensé, rêvé, cousu et
     },
     {
       url: "/images/chapitre92.jpg",
-      text: "Découvrir et se former pour les 13 salariées du réseau",
+      text: "Étape 1 : Découvrir et se former pour les salariés du réseau",
     },
        {
        url: "/images/chapitre91.jpg",
-      text: "Partager et expérimenter avec 27 ateliers sur le territoire",
+      text: "Étape 2 : Partager et expérimenter avec 27 ateliers sur le territoire",
     },
         {
       url: "/images/chapitre93.jpg",
-      text: "Présentation de Chapitre 9, Festival Maintenant édition 2021, Rennes",
+      text: "Étape 3 : Présentation de Chapitre 9, Festival Maintenant édition 2021, Rennes",
     },
   ],
 };
