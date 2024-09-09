@@ -32,7 +32,6 @@
     innovantes pour expérimenter des nouveaux usages. Ainsi elle a mis en place,
     pas à pas une méthodologie de travail centrée sur l’usager et
     l’expérimentation. <br />
- </p>
  <p>
     Design objet / Scénographie : Ses projets associent des formes simples avec des technologies interactives pour
     des usages intuitifs.
