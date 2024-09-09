@@ -32,6 +32,8 @@
     innovantes pour expérimenter des nouveaux usages. Ainsi elle a mis en place,
     pas à pas une méthodologie de travail centrée sur l’usager et
     l’expérimentation.
+</div>
+  <div class="w-1/2 md:w-full"
    <p>
 Design objet / Scénographie
 </p>
