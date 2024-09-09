@@ -7,7 +7,7 @@ export default {
 Bérengère Amiot invite 40 élèves de maternelle à voir, écouter et ressentir la ville autrement.
 À travers des ateliers d'observation et d'expérimentation, les enfants appréhendent leur quartier pour mieux comprendre ce qu'est l'espace public.
 Car une ville n'est pas qu'un ensemble de bâtiments et de rues, elle est également modelée par les usages qu'en font les habitants à travers le mobilier urbain.    
-Pont-Audemer juin 2021
+<span style="font-family:OstiaAnticaBookItalic;">Pont-Audemer juin 2021</span>
 </p>`,
 
   images: [
