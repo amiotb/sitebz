@@ -33,7 +33,7 @@
     pas à pas une méthodologie de travail centrée sur l’usager et
     l’expérimentation. <br />
  <p>
-<div class="OstiaAnticaBookItalic">
+<div class="ostia-bookItalic">
   Design objet / Scénographie
 </div>: Ses projets associent des formes simples avec des technologies interactives pour
     des usages intuitifs.
