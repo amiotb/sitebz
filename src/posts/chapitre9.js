@@ -4,36 +4,36 @@ export default {
   position: 4,
   content: `
     <p>
-    <span style="font-family:OstiaAnticaBookItalic;">Chapitre 9</span> est une résidence de territoire à Liffré-Cormier Communauté. 
-Associée avec l'association Electroni[k], Bérengère Amiot accompagne le réseau de neuf bibliothèques autour d’un projet collaboratif : créer un livre alliant papier et numérique. 
- <span style="font-family:OstiaAnticaBookItalic;">Chapitre 9</span> offre une approche sur la diversité de la création numérique et sa portée inclusive.
+    <span style="font-family:OstiaAnticaBookItalic;">Chapitre 9</span> est une résidence de territoire à Liffré-Cormier Communauté portée par la DRAC. 
+    <br>
+Avec l'association Electroni[k], Bérengère Amiot accompagne le réseau de neuf bibliothèques autour d’un projet collaboratif : créer un livre alliant papier et numérique pour 
+offrir une approche sur la diversité de la création numérique et sa portée inclusive. Chapitre 9 s’inscrit dans les principes fondamentaux de la mise en réseau des médiathèques du territoire : 
+faire-ensemble tout en permettant à chaque structure d’être libre dans la création et la réalisation ; promouvoir
+la lecture publique et développer l’éducation artistique et culturelle sur le territoire permettant ainsi un égal accès de tous à l’art et la culture.
 <br>
-La résidence d'1 an s’est structurée en 3 étapes :
-
-- se former aux formes artistiques numérique
-
-– créer avec 27 ateliers et plus de 200 participant.e.s
-
-- valoriser un projet collaboratif avec un livre interactif présenté sur la 20ème édition de Maintenant festival.</br>
-  </br>  </p>
+Pendant une année, 141 personnes ont dessiné, écrit, pensé, rêvé, cousu et raconté dand ce livre.  </p>
 `,
 
   images: [
-    {
-      url: "/images/chapitre92.jpg",
-      text: "Sensibilisation à la création numérique",
+       {
+      url: "/images/Capture d’écran 2024-09-09 à 19.54.33.png",
+      text: "Chapitre 9 p.42",
+    },
+       {
+      url: "/images/Chapitre 9 v.mp4",
+      text: "Vidéo Vincent Cadoret",
     },
     {
-      url: "/images/chapitre93.jpg",
-      text: "Festival Maintenant édition 2021, Rennes",
+      url: "/images/chapitre92.jpg",
+      text: "Découvrir et se former pour les 13 salariées du réseau",
     },
        {
        url: "/images/chapitre91.jpg",
-      text: "Dessin Numérique",
+      text: "Partager et expérimenter avec 27 ateliers sur le territoire",
     },
-      {
-      url: "/images/Chapitre 9 v.mp4",
-      text: "Vidéo Vincent Cadoret",
+        {
+      url: "/images/chapitre93.jpg",
+      text: "Présentation de Chapitre 9, Festival Maintenant édition 2021, Rennes",
     },
   ],
 };
