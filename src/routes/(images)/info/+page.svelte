@@ -33,7 +33,9 @@
     pas à pas une méthodologie de travail centrée sur l’usager et
     l’expérimentation. <br />
  <p>
-    Design objet / Scénographie : Ses projets associent des formes simples avec des technologies interactives pour
+<div class="OstiaAnticaBookItalic">
+  Design objet / Scénographie
+</div>: Ses projets associent des formes simples avec des technologies interactives pour
     des usages intuitifs.
 <br />
  Résidence / Workshop : Ses ateliers s’articulent autour du design collaboratif, qui consiste à intégrer les futurs
