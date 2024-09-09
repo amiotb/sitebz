@@ -1,6 +1,7 @@
 export default {
   id: "urbain",
   title: "Workshop Design Urbain",
+  position: 5,
   content: `
     <p>
 Bérengère Amiot invite 40 élèves de maternelle à voir, écouter et ressentir la ville autrement.
