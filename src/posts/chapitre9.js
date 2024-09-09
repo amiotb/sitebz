@@ -20,10 +20,6 @@ La résidence d'1 an s’est structurée en 3 étapes :
 
   images: [
     {
-      url: "/images/Chapitre 9 v.mp4",
-      text: "Vidéo Vincent Cadoret",
-    },
-    {
       url: "/images/chapitre92.jpg",
       text: "Sensibilisation à la création numérique",
     },
@@ -34,6 +30,10 @@ La résidence d'1 an s’est structurée en 3 étapes :
        {
        url: "/images/chapitre91.jpg",
       text: "Dessin Numérique",
+    },
+      {
+      url: "/images/Chapitre 9 v.mp4",
+      text: "Vidéo Vincent Cadoret",
     },
   ],
 };
