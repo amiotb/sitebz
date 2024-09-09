@@ -35,19 +35,19 @@
 </div>
   <div class="w-1/2 md:w-full"
    <p>
-Design objet / Scénographie
+<span style="font-family:OstiaAnticaBookItalic;">Design objet / Scénographie</span>
     <p>
 Ses projets associent des formes simples avec des technologies interactives pour des usages intuitifs.
 </p>
     <p>
-Résidence / Workshop
+<span style="font-family:OstiaAnticaBookItalic;">Résidence / Workshop</span>
 </p>
     <p>
 Ses ateliers s’articulent autour du design collaboratif, qui consiste à intégrer les futurs
 usagers dans le processus de création, et de la fabrication numérique.
 </p>
     <p>
-Formation / Conférence
+<span style="font-family:OstiaAnticaBookItalic;">Formation / Conférence</span>
 </p>
     <p>
 Ses propos portent sur l’expérimentation comme outil pédagogique au service d’émergence d’idées.
