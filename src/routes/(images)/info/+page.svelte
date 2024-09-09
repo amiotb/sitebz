@@ -33,26 +33,20 @@
     pas à pas une méthodologie de travail centrée sur l’usager et
     l’expérimentation. <br />
  <p>
-<div fontFamily="OstiaAnticaBookItalic">
+<div
   Design objet / Scénographie
 </div> Ses projets associent des formes simples avec des technologies interactives pour
     des usages intuitifs.
 <br />
- Résidence / Workshop : Ses ateliers s’articulent autour du design collaboratif, qui consiste à intégrer les futurs
+<div
+Résidence / Workshop
+</div> Ses ateliers s’articulent autour du design collaboratif, qui consiste à intégrer les futurs
 usagers dans le processus de création, et de la fabrication numérique.
 <br />
-    Formation / Conférence : Ses propos portent sur l’expérimentation comme outil pédagogique au service d’émergence
-    d’idées.
- <p>
-Ce que je peux faire avec vous :<br />
-    <ul class="list-disc">
-      <li>Créer des objets et des sercices</li>
-      <li>Inventer des mondes imaginaires</li>
-      <li>Définir des identités numériques</li>
-      <li>Aider à la mise en place de projets d’innovation sociale</li>
-      <li>Imaginer des dispositifs de transmission et de formation</li>
-      <li>Concevoir des espaces d’interactions réels ou virtuels</li>
-    </ul>
+<div
+Formation / Conférence
+</div>
+Ses propos portent sur l’expérimentation comme outil pédagogique au service d’émergence d’idées.
   <!-- Tu peux changer a là -->
 </div>
 
