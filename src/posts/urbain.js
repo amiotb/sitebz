@@ -7,7 +7,8 @@ export default {
 Bérengère Amiot invite 40 élèves de maternelle à voir, écouter et ressentir la ville autrement.
 À travers des ateliers d'observation et d'expérimentation, les enfants appréhendent leur quartier pour mieux comprendre ce qu'est l'espace public.
 Car une ville n'est pas qu'un ensemble de bâtiments et de rues, elle est également modelée par les usages qu'en font les habitants à travers le mobilier urbain.    
-<span style="font-family:OstiaAnticaBookItalic;">Pont-Audemer juin 2021</span>
+<br>
+Pont-Audemer juin 2021
 </p>`,
 
   images: [
@@ -22,6 +23,10 @@ Car une ville n'est pas qu'un ensemble de bâtiments et de rues, elle est égale
     {
       url: "/images/urbain3.jpeg",
       text: "Décrire sa maison par les mots et l'image",
+    },
+        {
+      url: "/images/Design urbain Louis Pergaud.mp4",
+      text: "vidéo stop motion",
     },
      {
       url: "/images/urbain4.jpeg",
