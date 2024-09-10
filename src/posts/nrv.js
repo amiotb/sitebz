@@ -11,7 +11,6 @@ Les intelligences artificielles, en perpétuant des paysages idéalisés (comme 
 reflètent et amplifient ces stéréotypes préexistants.
 <br>
 L’avènement des technologies de navigation, particulièrement du GPS, engendre une distorsion de nos imaginaires géographiques. 
-La dépendance excessive à la navigation assistée par GPS induit une altération significative des compétences d'orientation spatiale et de la perception de l'environnement. 
 En privilégiant les itinéraires dictés par ces applications, nos imaginaires géographiques risquent de subir une distorsion, sapant ainsi notre lien authentique avec la réalité.
 <span style="font-family:OstiaAnticaBookItalic;">Nos Réalités Virtuelles</span> dessine avec la participation des visiteurs, une carte imaginaire d'un paysage à partir de rien. 
 Un exercie pour enrichir notre capacité à concevoir, encore et toujours, des environnements fictifs.
