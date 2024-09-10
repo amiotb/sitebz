@@ -4,12 +4,14 @@ export default {
   position: 1,
   content: `
     <p>
-      <span style="font-family:OstiaAnticaBookItalic;">Sensorama</span> est une résidence de territoire à Montfort Communauté qui bénéfici 
+      <span style="font-family:OstiaAnticaBookItalic;">Sensorama</span> est une résidence de territoire à Montfort Communauté qui bénéficie 
       du soutien du Département d’Ille-et-Vilaine et de Montfort Communauté. 
     <br>
-    Les imaginaires géographiques, amalgames de représentations mentales et culturelles de l'espace qui nous entoure, se forme à travers divers facteurs tels que la culture, l'histoire, la littérature et les médias... 
-    Ils jouent un rôle prépondérant dans la manière dont nous comprenons et interagissons avec le monde qui nous entoure. <span style="font-family:OstiaAnticaBookItalic;">Sensorama</span> propose aux participants d'imaginer et de composer un horizon à partir de 
-    normographes puis de collecter du son pour celui-ci.  
+    Les imaginaires géographiques, amalgames de représentations mentales et culturelles de l'espace qui nous entoure, se forment à travers divers facteurs tels que la culture, l'histoire, la littérature et les médias... 
+    Ils jouent un rôle prépondérant dans la manière dont nous comprenons et interagissons avec le monde. Bérengère Amiot propose aux participants d'imaginer et de composer un horizon à partir de 
+    normographes puis de collecter du son pour mettre en scène compléter l'oeuvre collective.   
+    <br>
+    <span style="font-family:OstiaAnticaBookItalic;">Sensorama</span> est un objet hybride entre création artistique et outil pédagogique, qui permet à tous de créer ou de partager une oeuvre numérique.
     <br>
     60 personnes ont participé à l'expérience Sensorama dans 8 communes différentes de Montfort Communauté.  
     </p>
