@@ -36,15 +36,15 @@ export default {
     },
       {
       url: "/images/Sensorama 8.jpg",
-      text: "Sensorama, touchez le cuivre pour écouter le paysage",
+      text: "Sensorama, touchez les parties en cuivre pour écouter le paysage",
     },
         {
       url: "/images/Sensorama 7.jpg",
-      text: "Sensorama, horizon dessiné à partir de la fresque créée par tous les participants",
+      text: "Sensorama, horizon dessiné à partir des compositions créés pendant les ateliers",
     },
         {
       url: "/images/Sensorama 3.jpg",
-      text: "Sensorama, prendre un bout de l'horizon pour l'emporter avec soi",
+      text: "Sensorama, prendre un bout d'horizon pour l'emporter avec soi",
     },
   ],
 };
