@@ -1,6 +1,7 @@
 export default {
-  id: "table",
-  title: "A table",
+  id: "labodesign",
+  title: "Le Laboratoire de design",
+  position: 5,
   content: `
     <p>
         Lorem ipsum dolor sit amen
