@@ -1,7 +1,7 @@
 export default {
   id: "Sensorama",
   title: "Sensorama",
-  position: 1,
+  position: 2,
   content: `
     <p>
       <span style="font-family:OstiaAnticaBookItalic;">Sensorama</span> est une résidence de territoire à Montfort Communauté qui bénéficie 
