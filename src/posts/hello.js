@@ -1,16 +1,24 @@
 export default {
   id: "Sensorama",
   title: "Sensorama",
+  position: 1,
   content: `
     <p>
-        Hello
+      <span style="font-family:OstiaAnticaBookItalic;">Sensorama</span> est une résidence de territoire à Montfort Communauté qui bénéfici 
+      du soutien du Département d’Ille-et-Vilaine et de Montfort Communauté. 
+    <br>
+    Les imaginaires géographiques, amalgames de représentations mentales et culturelles de l'espace qui nous entoure, se forme à travers divers facteurs tels que la culture, l'histoire, la littérature et les médias... 
+    Ils jouent un rôle prépondérant dans la manière dont nous comprenons et interagissons avec le monde qui nous entoure. <span style="font-family:OstiaAnticaBookItalic;">Sensorama</span> propose aux participants d'imaginer et de composer un horizon à partir de 
+    normographes puis de collecter du son pour celui-ci.  
+    <br>
+    60 personnes ont participé à l'expérience Sensorama dans 8 communes différentes de Montfort Communauté.  
     </p>
 `,
 
   images: [
     {
       url: "/images/Sensorama 1.jpg",
-      text: "détail de Sensorama",
+      text: "Sensorama, dispositif interactif et sonore",
     },
     {
       url: "/images/Sensorama 2.jpg",
@@ -26,15 +34,15 @@ export default {
     },
       {
       url: "/images/Sensorama 8.jpg",
-      text: "détail Sensorama",
+      text: "Sensorama, touchez le cuivre pour écouter le paysage",
     },
         {
       url: "/images/Sensorama 7.jpg",
-      text: "détail Sensorama",
+      text: "Sensorama, horizon dessiné à partir de la fresque créée par tous les participants",
     },
         {
       url: "/images/Sensorama 3.jpg",
-      text: "détail Sensorama",
+      text: "Sensorama, prendre un bout de l'horizon pour l'emporter avec soi",
     },
   ],
 };
