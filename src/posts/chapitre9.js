@@ -28,8 +28,24 @@ Pendant une année, 141 personnes ont dessiné, écrit, pensé, rêvé, cousu et
       text: "Étape 1 : Découvrir et se former pour les salariés du réseau",
     },
        {
-       url: "/images/chapitre91.jpg",
+      url: "/images/chapitre96.jpg",
+      text: "Origami lumineuse",
+    },
+    {
+       url: "/images/chapitre97.jpg",
       text: "Étape 2 : Partager et expérimenter avec 27 ateliers sur le territoire",
+    },
+       {
+       url: "/images/chapitre91.jpg",
+      text: "Dessiner le monde",
+    },
+     {
+       url: "/images/chapitre94.jpg",
+      text: "Cartographier les usages",
+    },
+      {
+       url: "/images/chapitre90.jpg",
+      text: "Coudre des histoires",
     },
         {
       url: "/images/chapitre93.jpg",
