@@ -8,8 +8,8 @@ Les imaginaires géographiques, amalgames de représentations mentales et cultur
 l’histoire, la littérature et les médias. Ils jouent un rôle prépondérant dans la manière dont les individus comprennent et interagissent avec le monde qui les entoure, 
 façonnant ainsi leur perception au gré des récits culturels, des stéréotypes, des représentations artistiques et des expériences individuelles.
 <br>
-Les intelligences artificielles, en perpétuant des paysages idéalisés (comme des prairies verdoyantes, des montagnes majestueuses, des rivières paisibles...) reflètent et amplifient ces stéréotypes préexistants.
-L’avènement des technologies de navigation, particulièrement du GPS, engendre une distorsion de nos imaginaires géographiques. La dépendance excessive à la navigation assistée par GPS, 
+Les IA, en perpétuant des paysages idéalisés (comme des prairies verdoyantes, des montagnes majestueuses, des rivières paisibles...) reflètent et amplifient ces stéréotypes préexistants.
+De plus l’avènement des technologies de navigation engendre une distorsion de nos imaginaires géographiques. La dépendance excessive à la navigation assistée par GPS, 
 communément désignée comme le «mal du GPS», induit une altération significative des compétences d’orientation spatiale et de la perception de l’environnement. 
 <br>
 Cette préférence pour des itinéraires préétablis entraîne une réduction des compétences d’orientation spatiale, engendrant une désaffection envers les éléments naturels. 
