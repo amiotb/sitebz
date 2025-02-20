@@ -27,12 +27,8 @@ la lecture publique et développer l’éducation artistique et culturelle sur l
       url: "/images/chapitre92.jpg",
       text: "Étape 1 : Découvrir et se former pour les salariés du réseau",
     },
-       {
-      url: "/images/chapitre96.jpg",
-      text: "Origami lumineuse",
-    },
     {
-       url: "/images/chapitre97.jpg",
+       url: "/images/static/Chapitre_9_4.jpg.jpg",
       text: "Étape 2 : Partager et expérimenter avec 27 ateliers sur le territoire",
     },
        {
@@ -40,7 +36,7 @@ la lecture publique et développer l’éducation artistique et culturelle sur l
       text: "Dessiner le monde",
     },
      {
-       url: "/images/chapitre94.jpg",
+       url: "/images/Chapitre_9_5.png",
       text: "Cartographier les usages",
     },
       {
