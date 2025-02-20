@@ -17,7 +17,7 @@
 </svelte:head>
 
 <div
-  class="mt-16 sm:mt-20 md:mt-32 lg:mt-40 px-0 sm:px-16 md:px-24 lg:px-52 pt-0 prose sm:prose-lg md:prose-xl prose-headings:font-medium max-w-none"
+<div class="mt-16 sm:mt-20 md:mt-32 lg:mt-40 px-0 sm:px-16 md:px-24 lg:px-52 pt-0 prose prose-2xl prose-headings:font-medium max-w-none">
 >
 </div>
   <!-- Tu peux changer de là -->
