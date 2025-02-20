@@ -36,7 +36,7 @@ la lecture publique et développer l’éducation artistique et culturelle sur l
       text: "Dessiner le monde",
     },
      {
-       url: "/images/Chapitre_9_5.png",
+       url: "/images/_69A2119.jpg",
       text: "Cartographier les usages",
     },
       {
