@@ -1,9 +1,8 @@
 export default {
-  id: "test",
+  id: "tendrepierre",
   title: "Tendre Pierre",
   position: 5,
   content: `
-  <h1>Tendre Pierre</h1>
     <p>
 La forme à l'échelle de la main _ travail en cours
 </p>
