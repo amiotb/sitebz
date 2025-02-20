@@ -4,12 +4,12 @@ export default {
   position: 6,
   content: `
     <p>
-Bérengère Amiot invite 40 élèves de maternelle à voir, écouter et ressentir la ville autrement.
+Bérengère Amiot invite quarante élèves de maternelle à voir, écouter et ressentir la ville autrement.
 À travers des ateliers d'observation et d'expérimentation, les enfants appréhendent leur quartier pour mieux comprendre ce qu'est l'espace public.
 Car une ville n'est pas qu'un ensemble de bâtiments et de rues, elle est également modelée par les usages qu'en font les habitants à travers le mobilier urbain.    
 <br>
-Pont-Audemer juin 2021
-</p>`,
+ <span style="font-family:OstiaAnticaBookItalic;">Théâtre L'Éclat,Pont-Audemer, juin 2021.</span> 
+    </p>`,
 
   images: [
     {
