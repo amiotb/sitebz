@@ -4,14 +4,14 @@ export default {
   position: 4,
   content: `
     <p>
-    <span style="font-family:OstiaAnticaBookItalic;">Chapitre 9</span> est une résidence de territoire à Liffré-Cormier Communauté portée par la DRAC. 
-    <br>
 Avec l'association Electroni[k], Bérengère Amiot accompagne le réseau de neuf bibliothèques autour d’un projet collaboratif : créer un livre alliant papier et numérique pour 
 offrir une approche sur la diversité de la création numérique et sa portée inclusive. Chapitre 9 s’inscrit dans les principes fondamentaux de la mise en réseau des médiathèques du territoire : 
 faire-ensemble tout en permettant à chaque structure d’être libre dans la création et la réalisation ; promouvoir
 la lecture publique et développer l’éducation artistique et culturelle sur le territoire permettant ainsi un égal accès de tous à l’art et la culture.
 <br>
-Pendant une année, 141 personnes ont dessiné, écrit, pensé, rêvé, cousu et raconté dans ce livre.  </p>
+    <span style="font-family:OstiaAnticaBookItalic;">Chapitre 9 est une résidence de territoire à Liffré-Cormier Communauté portée par la DRAC. Pendant une année, 141 personnes ont dessiné, écrit, pensé, rêvé, 
+    cousu et raconté dans ce livre.</span> 
+  </p>
 `,
 
   images: [
