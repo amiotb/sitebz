@@ -23,6 +23,10 @@ Cette œuvre collective propose un parcours poétique à travers Rennes, en dév
       url: "/images/37777248971_916b890a76_o.jpg",
       text: "Carte Mémoire, carte sensible de Rennes",
     },
+       {
+      url: "/images/book 2024 carto9.jpg",
+      text: "Carte Mémoire, schéma",
+    },
      {
       url: "/images/36974330933_db28baec0b_o.jpg",
       text: "Festival Maintenant, 2017",
