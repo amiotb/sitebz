@@ -14,6 +14,7 @@ communément désignée comme le «mal du GPS», induit une altération signific
 <br>
 Cette préférence pour des itinéraires préétablis entraîne une réduction des compétences d’orientation spatiale, engendrant une désaffection envers les éléments naturels. 
 En privilégiant les itinéraires dictés par ces applications, nos imaginaires géographiques subissent une distorsion, sapant ainsi notre lien authentique avec la réalité.
+<br>
 <span style="font-family:OstiaAnticaBookItalic;">Nos Réalités Virtuelles</span> propose aux spectateurs de créer une cartographie imaginaire d’un paysage issu du néant, 
 un exercice qui peut potentiellement enrichir notre capacité à concevoir encore et toujours des environnements fictifs.
 <br>
