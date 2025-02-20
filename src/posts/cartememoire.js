@@ -33,7 +33,7 @@ Cette œuvre collective propose un parcours poétique à travers Rennes, en dév
     },
     {
       url: "/images/37850720406_8fbdc70860_o.jpg",
-      text: "Carte Mémoire,détail",
+      text: "Carte Mémoire, détail",
     },
     {
       url: "/images/23763634148_a8665bd61f_o.jpg",
