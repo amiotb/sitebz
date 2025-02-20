@@ -24,14 +24,17 @@
 
   <div class="w-1/2 md:w-full"
  <p>
-    Bérengère Amiot est designer indépendante, diplômée de l’École Européenne Supérieure d’Art de
-    Bretagne de Rennes – EESAB – option design et d’une licence d’Information et
-    de Communication. Depuis 2012, elle développe des objets numériques, et
-    conçoit des projets de création partagée autour des arts et des pratiques
-    numériques. Ses projets associent des formes simples et des technologies
-    innovantes pour expérimenter des nouveaux usages. Ainsi elle a mis en place,
-    pas à pas une méthodologie de travail centrée sur l’usager et
-    l’expérimentation.
+Depuis 12 ans, Bérengère Amiot développe des objets numériques, et conçois des projets de création partagée autour des arts et des pratiques numériques. 
+Ses projets associent des formes simples et des technologies innovantes pour expérimenter des nouveaux usages. Ainsi elle a mis en place, pas à pas une méthodologie de travail centré sur l’usager,
+et l’expérimentation à travers le design collaboratif.
+Son axe de travail diffuse plus largement une pédagogie basée sur les principes de l’open-source, de l’économie circulaire et de l’inclusion numérique. 
+Elle s’implique tout particulièrement dans le réseau des labfabs de Rennes Métropole en tant que présidente de l’association depuis 5 ans.
+Son travail oscille entre le design d’objets interactifs, la création d’outils pédagogiques de concertation, la conception d’oeuvres collaboratives... 
+Tous ses projets ont un résultat tangible (objets, affiches, sites internets...). L’encapacitation des usagers est le coeur de son travail.
+Très vite, elle utilise la cartographie pour rendre visible, sensible et accessible les recherches et les expérimentations menés pendant ses projets collaboratifs. 
+Les cartes permettent de faire cohabiter une diversité de pratiques, de savoirs concrets et imaginaires. La technologie utilisée pour rendre interactif les objets est toujours cachée pour ne pas prendre
+le pas sur la narration. Bérengère Amiot fait le choix d’utiliser des outils peu coûteux ou reprogrammables, en accord avec une démarche éthique et respectueuse de l’environnement. 
+Cette approche vise à limiter l’impact écologique de ses créations tout en encourageant une économie du partage.
 </div>
   <div class="w-1/2 md:w-full"
    <p>
