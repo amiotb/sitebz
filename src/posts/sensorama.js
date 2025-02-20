@@ -14,19 +14,19 @@ En touchant les collines de cuivre, les spectateurs déclenchent de façon aléa
     <span style="font-family:OstiaAnticaBookItalic;">Sensorama</span> est un objet hybride entre création artistique et outil pédagogique, qui permet à tous de créer ou de partager une oeuvre numérique.
     <br>
       <span style="font-family:OstiaAnticaBookItalic;"> Cette résidence de territoire organisé par l'association Electroni[k] à Montfort Communauté a bénéficié 
-      du soutien du Département d’Ille-et-Vilaine et de Montfort Communauté. Soixante personnes ont participé à l'expérience dans 8 communes différentes de Montfort Communauté.  
+      du soutien du Département d’Ille-et-Vilaine et de Montfort Communauté. Soixante personnes ont participé à l'expérience dans huit communes différentes de Montfort Communauté.  
 </span> 
     </p>
 `,
 
   images: [ 
- {
-      url: "/images/book 2024 carto13.jpg",
-      text: "Sensorama, schéma",
-    },
     {
       url: "/images/Sensorama 1.jpg",
       text: "Sensorama, dispositif interactif et sonore",
+    },
+     {
+      url: "/images/book 2024 carto13.jpg",
+      text: "Sensorama, schéma",
     },
     {
       url: "/images/Sensorama 2.jpg",
@@ -45,7 +45,7 @@ En touchant les collines de cuivre, les spectateurs déclenchent de façon aléa
       text: "Sensorama, touchez les parties en cuivre pour écouter le paysage",
     },
         {
-      url: "/images/book 2024 carto16.jpg.jpg",
+      url: "/images/book 2024 carto16.jpg",
       text: "Sensorama, horizon dessiné à partir des compositions créés pendant les ateliers",
     },
         {
