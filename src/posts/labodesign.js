@@ -21,6 +21,10 @@ Cette œuvre collective offre une perspective intime sur leur rapport à l’esp
       url: "/images/20180906_094157_138.jpg",
       text: "Pop Up, objet cartographique",
     },
+     {
+      url: "/images/book 2024 carto18.jpg",
+      text: "Pop Up, schéma",
+    },
     {
       url: "/images/20181124_182215_005.jpg",
       text: "Pop Up, musée de Bretagne 2017",
@@ -28,10 +32,6 @@ Cette œuvre collective offre une perspective intime sur leur rapport à l’esp
     {
       url: "/images/20180906_093949_299.jpg",
       text: "Pop Up, détail des barreaux",
-    },
-      {
-      url: "/images/book 2024 carto18.jpg",
-      text: "Pop Up, schéma",
     },
   ],
 };
