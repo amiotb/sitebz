@@ -23,7 +23,7 @@ un exercice qui peut potentiellement enrichir notre capacité à concevoir encor
 </p>
 `,
 
-  images: [ static/images/book 2024 carto6.jpg
+  images: [
   {
       url: "/images/book 2024 carto4.jpg",
       text: "Nos Réalités Virtuelles, schéma",
