@@ -20,7 +20,7 @@ un exercice qui peut potentiellement enrichir notre capacité à concevoir encor
 <br>
 <span style="font-family:OstiaAnticaBookItalic;">Le projet a bénéficié d'une bourse d'aide à la création de la ville de Rennes, 2023.</span>
 <br>
-<span style="font-family:OstiaAnticaBookItalic;">Installation proposée pendant la Buvette des Ateliers du Vent, janvier 2024.</span>
+<span style="font-family:OstiaAnticaBookItalic;">Installation présentée pendant la Buvette des Ateliers du Vent, janvier 2024.</span>
 </p>
 `,
 
