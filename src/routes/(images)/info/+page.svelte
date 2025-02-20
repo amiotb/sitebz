@@ -18,7 +18,6 @@
 
 <div
 <div class="mt-16 sm:mt-20 md:mt-32 lg:mt-40 px-0 sm:px-16 md:px-24 lg:px-52 pt-0 prose prose-2xl prose-headings:font-medium max-w-none">
->
 </div>
   <!-- Tu peux changer de là -->
 
@@ -40,20 +39,20 @@ Cette approche vise à limiter l’impact écologique de ses créations tout en 
    <p>
 <span style="font-family:OstiaAnticaBookItalic;">Design objet / Scénographie</span>
     <p>
-Ses projets associent des formes simples avec des technologies interactives pour des usages intuitifs.
+<span style="font-family:OstiaAnticaBookItalic;">Ses projets associent des formes simples avec des technologies interactives pour des usages intuitifs.</span>
 </p>
     <p>
 <span style="font-family:OstiaAnticaBookItalic;">Résidence / Workshop</span>
 </p>
     <p>
-Ses ateliers s’articulent autour du design collaboratif, qui consiste à intégrer les futurs
-usagers dans le processus de création, et de la fabrication numérique.
+<span style="font-family:OstiaAnticaBookItalic;">Ses ateliers s’articulent autour du design collaboratif, qui consiste à intégrer les futurs
+usagers dans le processus de création, et de la fabrication numérique.</span>
 </p>
     <p>
 <span style="font-family:OstiaAnticaBookItalic;">Formation / Conférence</span>
 </p>
     <p>
-Ses propos portent sur l’expérimentation comme outil pédagogique au service d’émergence d’idées.
+<span style="font-family:OstiaAnticaBookItalic;">Ses propos portent sur l’expérimentation comme outil pédagogique au service d’émergence d’idées.</span>
   <!-- Tu peux changer a là -->
 </div>
 
