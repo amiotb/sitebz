@@ -4,10 +4,7 @@ export default {
   position: 2,
   content: `
     <p>
-      <span style="font-family:OstiaAnticaBookItalic;">Sensorama</span> est une résidence de territoire à Montfort Communauté qui bénéficie 
-      du soutien du Département d’Ille-et-Vilaine et de Montfort Communauté. 
-    <br>
-    Comment raconter un paysage ? 
+    Comment peut-on raconter un paysage ? 
         <br>
 Il témoigne de l’histoire d’un territoire et tisse des liens profonds avec ses habitants. Pour dévoiler les imaginaires géographiques et le paysage onirique de Monfort Communauté, Bérengère Amiot a été invitée à résider au sein du réseau de bibliothèques.
 À travers des ateliers ouverts à tous, les participants ont été amenés à explorer leurs imaginaires géographiques en découvrant leur paysage à l’aide d’outils de création graphique et sonore.
@@ -16,7 +13,9 @@ En touchant les collines de cuivre, les spectateurs déclenchent de façon aléa
     <br>
     <span style="font-family:OstiaAnticaBookItalic;">Sensorama</span> est un objet hybride entre création artistique et outil pédagogique, qui permet à tous de créer ou de partager une oeuvre numérique.
     <br>
-    60 personnes ont participé à l'expérience Sensorama dans 8 communes différentes de Montfort Communauté.  
+      <span style="font-family:OstiaAnticaBookItalic;"> Cette résidence de territoire organisé par l'association Electroni[k] à Montfort Communauté a bénéficié 
+      du soutien du Département d’Ille-et-Vilaine et de Montfort Communauté. Soixante personnes ont participé à l'expérience dans 8 communes différentes de Montfort Communauté.  
+</span> 
     </p>
 `,
 
