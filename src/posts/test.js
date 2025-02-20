@@ -1,26 +1,26 @@
 export default {
   id: "test",
-  title: "Salut c'est nous",
-  position: 10000,
+  title: "Tendre Pierre",
+  position: 5,
   content: `
-  <h1>hello</h1>
+  <h1>Tendre Pierre</h1>
     <p>
-        Lorem ipsum dolor sit amen
-    </p>
+La forme à l'échelle de la main _ travail en cours
+</p>
 `,
 
   images: [
     {
-      url: "/images/4.png",
-      text: "My table",
+      url: "/images/IMG_1832.jpeg",
+      text: "Céramique",
     },
     {
-      url: "/images/2.png",
-      text: "Just a second bird",
+      url: "/images/IMG_1840.jpeg",
+      text: "Céramique et porcelaine",
     },
     {
-      url: "/images/1.png",
-      text: "Just a third bird",
+      url: "/images/IMG_1845.jpeg",
+      text: "Céramique et crayon",
     },
   ],
 };
