@@ -19,18 +19,18 @@ un exercice qui peut potentiellement enrichir notre capacité à concevoir encor
 <br>
 <span style="font-family:OstiaAnticaBookItalic;">Le projet a bénéficié d'une bourse d'aide à la création de la ville de Rennes, 2023.</span>
 <br>
-<span style="font-family:OstiaAnticaBookItalic;">Installation proposée pendant la Buvette des Ateliers du Vent, janvier 2024</span>
+<span style="font-family:OstiaAnticaBookItalic;">Installation proposée pendant la Buvette des Ateliers du Vent, janvier 2024.</span>
 </p>
 `,
 
   images: [
-  {
-      url: "/images/book 2024 carto4.jpg",
-      text: "Nos Réalités Virtuelles, schéma",
-    },
     {
       url: "/images/nrv 1.png",
       text: "Bivouac, l'IA nous raconte le monde",
+    },
+      {
+      url: "/images/book 2024 carto4.jpg",
+      text: "Nos Réalités Virtuelles, schéma",
     },
     {
       url: "/images/Nos Réalités Virtuelles_bd.mp4",
@@ -40,9 +40,5 @@ un exercice qui peut potentiellement enrichir notre capacité à concevoir encor
       url: "/images/nrv 2.png",
       text: "Terraformer, imaginer un relevé topographique",
       },
-        {
-      url: "/images/book 2024 carto6.jpg",
-      text: "Nos Réalités Virtuelles, installation",
-    },
   ],
 };
