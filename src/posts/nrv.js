@@ -23,7 +23,11 @@ un exercice qui peut potentiellement enrichir notre capacité à concevoir encor
 </p>
 `,
 
-  images: [
+  images: [ static/images/book 2024 carto6.jpg
+  {
+      url: "/images/book 2024 carto4.jpg",
+      text: "Nos Réalités Virtuelles, schéma",
+    },
     {
       url: "/images/nrv 1.png",
       text: "Bivouac, l'IA nous raconte le monde",
@@ -35,6 +39,10 @@ un exercice qui peut potentiellement enrichir notre capacité à concevoir encor
     {
       url: "/images/nrv 2.png",
       text: "Terraformer, imaginer un relevé topographique",
+      },
+        {
+      url: "/images/book 2024 carto6.jpg",
+      text: "Nos Réalités Virtuelles, installation",
     },
   ],
 };
