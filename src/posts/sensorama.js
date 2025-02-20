@@ -7,9 +7,12 @@ export default {
       <span style="font-family:OstiaAnticaBookItalic;">Sensorama</span> est une résidence de territoire à Montfort Communauté qui bénéficie 
       du soutien du Département d’Ille-et-Vilaine et de Montfort Communauté. 
     <br>
-    Les imaginaires géographiques, amalgames de représentations mentales et culturelles de l'espace qui nous entoure, se forment à travers divers facteurs tels que la culture, l'histoire, la littérature et les médias... 
-    Ils jouent un rôle prépondérant dans la manière dont nous comprenons et interagissons avec le monde. Bérengère Amiot propose aux participants d'imaginer et de composer un horizon à partir de 
-    normographes puis de collecter du son pour mettre en scène compléter l'oeuvre collective.   
+    Comment raconter un paysage ? 
+        <br>
+Il témoigne de l’histoire d’un territoire et tisse des liens profonds avec ses habitants. Pour dévoiler les imaginaires géographiques et le paysage onirique de Monfort Communauté, Bérengère Amiot a été invitée à résider au sein du réseau de bibliothèques.
+À travers des ateliers ouverts à tous, les participants ont été amenés à explorer leurs imaginaires géographiques en découvrant leur paysage à l’aide d’outils de création graphique et sonore.
+C'est un objet évolutif et interactif, situé à la frontière entre l’œuvre artistique et l’outil pédagogique. L’installation, conçue pour être accessible dans toutes les médiathèques du réseau, agit comme un support de sensibilisation à la création numérique auprès d’un large public. 
+En touchant les collines de cuivre, les spectateurs déclenchent de façon aléatoire des fragments sonores et des descriptions de paysages aimés, collectés au fil des ateliers. 
     <br>
     <span style="font-family:OstiaAnticaBookItalic;">Sensorama</span> est un objet hybride entre création artistique et outil pédagogique, qui permet à tous de créer ou de partager une oeuvre numérique.
     <br>
@@ -17,7 +20,11 @@ export default {
     </p>
 `,
 
-  images: [
+  images: [ 
+ {
+      url: "/images/book 2024 carto13.jpg",
+      text: "Sensorama, schéma",
+    },
     {
       url: "/images/Sensorama 1.jpg",
       text: "Sensorama, dispositif interactif et sonore",
@@ -39,7 +46,7 @@ export default {
       text: "Sensorama, touchez les parties en cuivre pour écouter le paysage",
     },
         {
-      url: "/images/Sensorama 7.jpg",
+      url: "/images/book 2024 carto16.jpg.jpg",
       text: "Sensorama, horizon dessiné à partir des compositions créés pendant les ateliers",
     },
         {
