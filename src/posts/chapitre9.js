@@ -1,6 +1,6 @@
 export default {
   id: "chapitre9",
-  title: "Résidence de territoire",
+  title: "Chapitre 9",
   position: 4,
   content: `
     <p>
@@ -36,7 +36,7 @@ la lecture publique et développer l’éducation artistique et culturelle sur l
       text: "Dessiner le monde",
     },
      {
-       url: "/images/_69A2119.jpg",
+       url: "/images/69A2119.jpg",
       text: "Cartographier les usages",
     },
       {
