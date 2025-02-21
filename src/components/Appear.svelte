@@ -13,7 +13,7 @@
   };
 
   let waitTime = 500;
-  let canRun = false;
+  let canRun = true;
 
   onMount(() => {
     setTimeout(() => {

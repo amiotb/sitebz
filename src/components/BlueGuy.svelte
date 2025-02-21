@@ -14,7 +14,7 @@
     if (done) {
       hideGuy = true;
     } else {
-      setTimeout(() => (display = true), 60000);
+      setTimeout(() => (display = true), 30000);
     }
   });
 
@@ -65,10 +65,10 @@
     class:hidden={hideGuy}
   >
     <div
-      class="bg-[#ffff00] rounded-full absolute w-5 h-5 transition duration-500 blue-guy-1"
+      class="bg-primary invert rounded-full absolute w-5 h-5 transition duration-500 blue-guy-1"
     />
     <div
-      class="bg-[#ffff00] rounded-full absolute w-2 h-2 transition duration-500 blue-guy-2 mix-blend-difference"
+      class="bg-primary invert rounded-full absolute w-2 h-2 transition duration-500 blue-guy-2 mix-blend-difference"
     />
   </div>
 {/if}
