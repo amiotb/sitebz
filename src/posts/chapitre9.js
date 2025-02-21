@@ -16,8 +16,8 @@ la lecture publique et développer l’éducation artistique et culturelle sur l
 
   images: [
        {
-      url: "/images/Capture d’écran 2024-09-09 à 19.54.33.png",
-      text: "Chapitre 9 page 42",
+      url: "/images/Chapitre94.jpg",
+      text: "Chapitre 9 p.42",
     },
        {
       url: "/images/Chapitre 9 v.mp4",
@@ -25,11 +25,11 @@ la lecture publique et développer l’éducation artistique et culturelle sur l
     },
     {
       url: "/images/chapitre92.jpg",
-      text: "Étape 1 : Découvrir et se former pour les salariés du réseau",
+      text: "Former les salariés du réseau",
     },
     {
        url: "/images/69A2114.jpg",
-      text: "Étape 2 : Partager et expérimenter avec 27 ateliers sur le territoire",
+      text: "Expérimenter avec 27 ateliers sur le territoire",
     },
        {
        url: "/images/chapitre91.jpg",
@@ -41,7 +41,7 @@ la lecture publique et développer l’éducation artistique et culturelle sur l
     },
       {
       url: "/images/chapitre93.jpg",
-      text: "Étape 3 : Présentation de Chapitre 9, Festival Maintenant édition 2021, Rennes",
+      text: "Chapitre 9, Festival Maintenant édition 2021, Rennes",
     },
   ],
 };
