@@ -2,10 +2,14 @@
   import Appear from "$cmp/Appear.svelte";
   import ProjectImage from "$cmp/ProjectImage.svelte";
 
+  
   /**
-   * @type {any}
+   * @typedef {Object} Props
+   * @property {any} data
    */
-  export let data;
+
+  /** @type {Props} */
+  let { data } = $props();
 </script>
 
 <svelte:head>
@@ -24,7 +28,7 @@
   {@html data.content}
 </div>
 <div class="mt-20 flex w-full flex-col projects-list">
-  {#each data.images as image}
-    <ProjectImage image={image.url} name={image.text} />
+  {#each data.images as image, index}
+    <ProjectImage image={image.url} name={image.text} {index} />
   {/each}
 </div>

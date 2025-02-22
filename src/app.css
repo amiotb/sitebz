@@ -42,3 +42,16 @@
       src: url("/fonts/OstiaAntica-BookItalic.otf") format("truetype");
     }
 }
+
+@layer utilities {
+  .underlink {
+    /* text-decoration: underline 0em rgba(0, 0, 0, 0);
+    transition-property: text-decoration-color, text-decoration-thickness;
+    transition-duration: 300ms; */
+  }
+
+  .underlink:hover {
+    /* text-decoration-thickness: 0.15em;
+    text-decoration-color: rgba(0, 0, 0, 1); */
+  }
+}

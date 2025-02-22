@@ -1,4 +1,0 @@
-
-.project {
-  --tw-translate-y: calc(calc(var(--project-y) * var(--index) * -1) + var(--translate-y));
-}

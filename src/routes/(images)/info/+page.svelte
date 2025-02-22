@@ -82,7 +82,7 @@
 </div>
 
 <div class="mt-20 flex w-full flex-col projects-list">
-  {#each images as image}
-    <ProjectImage image={image.url} name={image.text} />
+  {#each images as image, index}
+    <ProjectImage image={image.url} name={image.text} {index} />
   {/each}
 </div>

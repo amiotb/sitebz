@@ -5,7 +5,7 @@
   /**
    * @type {any}
    */
-  let isInView;
+  let isInView = $state();
   let scrollDirection;
   const options = {
     rootMargin: "-100px",
@@ -13,7 +13,7 @@
   };
 
   let waitTime = 500;
-  let canRun = true;
+  let canRun = $state(true);
 
   onMount(() => {
     setTimeout(() => {
@@ -26,23 +26,31 @@
     if(isInView && canRun) return;
     isInView = detail.inView;
     scrollDirection = detail.scrollDirection;
-    console.log(scrollDirection)
+    // console.log(scrollDirection)
     // && scrollDirection.vertical == 'down'
   };
 
   /**
    * @type {string?}
    */
-  let className = '';
+  /**
+   * @typedef {Object} Props
+   * @property {string} [class]
+   * @property {string} [style]
+   * @property {import('svelte').Snippet} [children]
+   */
 
-  export { className as class}
+  /** @type {Props} */
+  let { class: className = '',style  = '', children } = $props();
+
+  
 </script>
 
-<div use:inview={options} on:inview_change={handleChange} class="group/project">
+<div use:inview={options} oninview_change={handleChange} class="group/project" {style}>
   <div
     class:view={isInView && canRun}
     class={"view:opacity-100 opacity-0 transition duration-1000 project-y-2 xs:project-y-4 sm:project-y-6 view:translate2-y-0 translate2-y-20 " + className}
   >
-    <slot />
+    {@render children?.()}
   </div>
 </div>

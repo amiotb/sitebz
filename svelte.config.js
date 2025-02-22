@@ -1,4 +1,4 @@
-import { vitePreprocess } from '@sveltejs/kit/vite';
+import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 import adapter from '@sveltejs/adapter-static'
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -20,6 +20,7 @@ const config = {
 			'$posts': 'src/posts',
 			'$cmp': 'src/components',
 			'$src': 'src',
+			'$static': 'static',
 		}
 	},
 	preprocess: vitePreprocess(),

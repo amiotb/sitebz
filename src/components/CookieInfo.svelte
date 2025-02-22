@@ -9,7 +9,7 @@
     $enabled = window.localStorage.hideInfo === "true";
     $loaded = true;
     enabled.subscribe(
-      (value) => (window.localStorage.hideInfo = String(value))
+      (value) => (window.localStorage.hideInfo = String(value)),
     );
   });
 </script>
@@ -21,11 +21,15 @@
     in:fade={{}}
   >
     <div class="p-5 bg-black bg-opacity-10">
-      <p><font face="OstiaAnticaBookItalic">Nous n'utilisons ni de cookies, <br />
-        ni ne recueillons d'informations.</font><p>
-    </p>
+      <p>
+        <font face="OstiaAnticaBookItalic"
+          >Nous n'utilisons ni de cookies, <br />
+          ni ne recueillons d'informations.</font
+        >
+      </p>
+      <p></p>
       <div class="flex justify-end">
-        <button on:click={() => ($enabled = true)} class="font-medium pr-2"
+        <button onclick={() => ($enabled = true)} class="font-medium pr-2"
           >cacher</button
         >
       </div>
