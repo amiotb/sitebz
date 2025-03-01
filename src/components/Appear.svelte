@@ -31,9 +31,6 @@
   };
 
   /**
-   * @type {string?}
-   */
-  /**
    * @typedef {Object} Props
    * @property {string} [class]
    * @property {string} [style]

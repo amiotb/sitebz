@@ -1,4 +1,5 @@
 <script>
+  import { videosExtentions } from "$lib/videoExtentions";
   import Appear from "./Appear.svelte";
   import LinkOrDiv from "./LinkOrDiv.svelte";
 
@@ -10,6 +11,7 @@
    * @property {string} [link]
    * @property {string} [name]
    * @property {number} [index]
+   * @property {()=>void} [onclick]
    */
 
   /** @type {Props} */
@@ -18,9 +20,9 @@
     link = "",
     name = "Hello World",
     index = 0,
+    onclick = () => {},
   } = $props();
 
-  const videosExtentions = [".mp4"];
   let videoPaused = $state(true);
 
   // let imageImMyImagep = import('../../../../static' + image + '?enhanced').then((m) => m['default'])
@@ -32,7 +34,7 @@
     if (event.target) {
       const t = event.target;
       //@ts-ignore
-      videoPaused = t.paused ?? false
+      videoPaused = t.paused ?? false;
     }
     // console.log(event)
   }
@@ -42,10 +44,12 @@
   class="flex flex-row w-full pointer-events-none justify-center project -translate-x-6 group-odd/project:translate-x-6"
   style="--index: {index};"
 >
-  <div class="lg:w-1/2 xs:w-2/3 w-0 group-odd/project:order-2 pointer-events-none"></div>
+  <div
+    class="lg:w-1/2 xs:w-2/3 w-0 group-odd/project:order-2 pointer-events-none"
+  ></div>
   <LinkOrDiv
     href={link}
-    class="lg:w-1/2 xs:w-2/3 w-full block bg-primary relative group pointer-events-auto transition duration-1000 text-center"
+    class="lg:w-1/2 xs:w-2/3 w-full block bg-primary relative group pointer-events-auto transition duration-1000 text-center hover:scale-105 delay-0 hover:delay-500"
   >
     {#if videosExtentions.some((ext) => image.endsWith(ext))}
       <!-- svelte-ignore a11y_media_has_caption -->
@@ -67,16 +71,19 @@
         {name}
       </div>
     {:else}
-      <img
-        src={image}
-        class="w-full object-cover group-hover:opacity-20 opacity-100 transition duration-500"
-        alt={name}
-      />
-      <div
-        class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 opacity-0 transition duration-500 font-normal text-2xl text-background"
-      >
-        {name}
-      </div>
+      <button onclick={() => onclick()} class="contents">
+        <img
+          src={image}
+          class="w-full object-cover group-hover:opacity-20 opacity-100 transition duration-500"
+          alt={name}
+        />
+
+        <div
+          class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 opacity-0 transition duration-500 font-normal text-2xl text-background"
+        >
+          {name}
+        </div>
+      </button>
     {/if}
   </LinkOrDiv>
   <!-- <div class="bg-primary absolute w-full h-full top-0"/> -->

@@ -1,9 +1,17 @@
 <script>
+    import ImageZoom from "$cmp/ImageZoom.svelte";
   import ProjectImage from "$cmp/ProjectImage.svelte";
   
   /**
    * @typedef {Object} Props
-   * @property {any} data
+   * @property {{
+    posts: {
+        id: string;
+        position: any;
+        title: any;
+        image: any;
+    }[];
+}} data
    */
 
   /** @type {Props} */

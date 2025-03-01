@@ -1,0 +1,1 @@
+export const videosExtentions = [".mp4"];
