@@ -21,6 +21,17 @@ const config = {
 			'$cmp': 'src/components',
 			'$src': 'src',
 			'$static': 'static',
+		},
+		prerender: {
+			handleHttpError: ({ path, referrer, message }) => {
+				// ignore deliberate link to shiny 404 page
+				if (path === '/editor' || path === '/editor/') {
+					return;
+				}
+
+				// otherwise fail the build
+				throw new Error(message);
+			}
 		}
 	},
 	preprocess: vitePreprocess(),
