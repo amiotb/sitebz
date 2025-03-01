@@ -14,7 +14,7 @@
 
     const image = $derived(images[index]);
 
-    $inspect(index);
+    // $inspect(index);
 
     $effect(() => {
         if (show) {
@@ -93,7 +93,7 @@
                 class="fixed top-5 text-2xl right-7 cursor-pointer group"
                 onclick={close}
             >
-                <div class="group-hover:scale-105 transition">
+                <div class="group-hover:scale-105 transition " style="text-shadow: 0px 0px 20px #000000;">
                     {"x"}
                 </div>
             </button>
